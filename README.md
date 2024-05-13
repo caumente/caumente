@@ -6,6 +6,11 @@ My name is Carlos Aumente, and I'm currently pursuing my PhD in Artificial Intel
 In particular, the first of my projects deals with the use of lightweight deep learning models for brain tumor segmentation, specifically focusing on gliomas. In that work, we demonstrated that lightweight networks (BTS-Unet), i.e., those with a reduced number of parameters, can be as effective in terms of performance as heavier ones, with the added advantage of their low computational cost to be trained. Additionally, we conducted a comprehensive analysis of the differences between high-grade and low-grade tumors, showing that there are significant differences between the MRIs of each tumor type. All the code is available at [brain_tumor_segmentation](https://github.com/caumente/brain_tumor_segmentation)
 
 
+### Publications
+
+- C. Aumente-Maestro, D. Rodríguez González, D. Martinez, B. Remeseiro, **BTS U-Net: A Data-Driven Approach to Brain Tumor Segmentation Through Deep Learning**, Available at SSRN 4327638
+
+
 ### Where I am
 
 <p><a href="http://www.caumente.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white "/></a>
@@ -15,11 +20,6 @@ In particular, the first of my projects deals with the use of lightweight deep l
 <a href="mailto:uo297103@uniovi.es" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white "/></a>
 </p>
 
-
-### Publications
-
-- C. Aumente-Maestro, D. Rodríguez González, D. Martinez, B. Remeseiro, **BTS U-Net: A Data-Driven Approach to Brain Tumor Segmentation Through Deep Learning**, Available at SSRN 4327638
-  
 
 ### On GitHub
 <div style="display: flex;">
