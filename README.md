@@ -13,7 +13,7 @@ In particular, the first of my projects deals with the use of lightweight deep l
 
 ### Where I am
 
-<p><a href="http://www.caumente.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white "/></a>
+<p><a href="http://caumente.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white "/></a>
 <a href="https://www.linkedin.com/in/caumente/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://scholar.google.es/citations?user=pGHSxGMAAAAJ" target="_blank"><img alt="GoogleScholar" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white "/></a>
 <a href="https://orcid.org/0000-0002-3710-3308" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white "/></a>
