@@ -9,7 +9,7 @@ In particular, the first of my projects deals with the use of lightweight deep l
 ### Publications
 
 - C. Aumente-Maestro, J. Díez,  B. Remeseiro, **A multi-task framework for breast cancer segmentation and classification in ultrasound imaging**, [Available at Computer Methods and Programs in Biomedicine - Elsevier Journal](https://doi.org/10.1016/j.cmpb.2024.108540)
-- C. Aumente-Maestro, D. Rodríguez González, D. Martinez, B. Remeseiro, **BTS U-Net: A Data-Driven Approach to Brain Tumor Segmentation Through Deep Learning**, [Available at Biomedical Signal Processing and Control - Elsevier Journal]([https://doi.org/10.1016/j.cmpb.2024.108540](https://doi.org/10.1016/j.bspc.2025.107490))
+- C. Aumente-Maestro, D. Rodríguez González, D. Martinez, B. Remeseiro, **BTS U-Net: A Data-Driven Approach to Brain Tumor Segmentation Through Deep Learning**, [Available at Biomedical Signal Processing and Control - Elsevier Journal](https://doi.org/10.1016/j.bspc.2025.107490)
 
 ### Where I am
 
