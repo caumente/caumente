@@ -1,9 +1,7 @@
 ### Hello there!
 
 
-My name is Carlos Aumente, and I'm currently pursuing my PhD in Artificial Intelligence at University of Oviedo, focusing on leveraging computer vision techniques for advanced medical imaging analysis. My research is centered on enhancing the efficacy and interpretability of deep learning models in medical image segmentation and classification tasks.
-
-In particular, the first of my projects deals with the use of lightweight deep learning models for brain tumor segmentation, specifically focusing on gliomas. In that work, we demonstrated that lightweight networks (BTS-Unet), i.e., those with a reduced number of parameters, can be as effective in terms of performance as heavier ones, with the added advantage of their low computational cost to be trained. Additionally, we conducted a comprehensive analysis of the differences between high-grade and low-grade tumors, showing that there are significant differences between the MRIs of each tumor type. All the code is available at [brain_tumor_segmentation](https://github.com/caumente/brain_tumor_segmentation)
+My name is Carlos Aumente, and I'm currently pursuing my PhD in Artificial Intelligence at University of Oviedo, focusing on leveraging computer vision techniques for advanced medical imaging analysis. My research is centered on enhancing the efficacy and interpretability of deep learning models for medical image segmentation, detection and classification tasks.
 
 
 ### Publications
