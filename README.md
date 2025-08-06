@@ -6,6 +6,7 @@ My name is Carlos Aumente, and I'm currently pursuing my PhD in Artificial Intel
 
 ### Publications
 
+- C. Aumente-Maestro, M. Müller, B. Remeseiro, J. Díez, M. Reyes, **AUDIT: An open-source Python library for AI model evaluation with use cases in MRI brain tumor segmentation**, [Available at Computer Methods and Programs in Biomedicine - Elsevier Journal](https://doi.org/10.1016/j.cmpb.2025.108991)
 - C. Aumente-Maestro, J. Díez,  B. Remeseiro, **A multi-task framework for breast cancer segmentation and classification in ultrasound imaging**, [Available at Computer Methods and Programs in Biomedicine - Elsevier Journal](https://doi.org/10.1016/j.cmpb.2024.108540)
 - C. Aumente-Maestro, D. Rodríguez González, D. Martinez, B. Remeseiro, **BTS U-Net: A Data-Driven Approach to Brain Tumor Segmentation Through Deep Learning**, [Available at Biomedical Signal Processing and Control - Elsevier Journal](https://doi.org/10.1016/j.bspc.2025.107490)
 
